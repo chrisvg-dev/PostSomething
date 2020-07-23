@@ -1,0 +1,25 @@
+Problemática:
+   - Comunicación ineficiente en la contingencia
+Análisis:
+   Requisitos o requerimientos funcionales:
+	- Registrar usuarios
+	- Permitir usuarios anónimos
+	- Publicar contenido
+	- Reaccionar a publicaciones
+	- Comentar publicaciones
+	- Citar publicaciones
+    Requisitos o requerimientos no funcionales:
+	- Necesita estar conectado a internet
+	- Necesita estar hospedado en un hosting
+Diseño:
+    - Diagrama de casos de uso
+    - Diagrama de clases
+    - Diagrama de datos
+    - Diagrama de secuencia
+    - Diagrama de dominio -> Diagrama de clases detallado
+    - Diagrama arquitectónico
+
+Pre-Desarrollo:
+    - Diseño de baja fidelidad (Prototipo no funcional)
+
+Desarrollo:
